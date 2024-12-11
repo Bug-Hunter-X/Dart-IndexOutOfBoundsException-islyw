@@ -1,0 +1,2 @@
+# Dart IndexOutOfBoundsException
+This example demonstrates a common error in Dart: attempting to access an element in a list using an index that is outside the bounds of the list.  The code attempts to access `list[5]` when the list only contains elements at indices 0 through 4. This will result in an `RangeError` exception being thrown at runtime.
